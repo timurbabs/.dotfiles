@@ -1,0 +1,15 @@
+.config/dconf
+.config/mimeapps.list
+.config/QtProject.conf
+.config/chromium
+.config/flameshot
+.config/helm
+.config/neofetch
+.config/nitrogen
+.config/pulse
+.config/Slack
+.config/syncthing
+.config/VirtualBox
+.config/.oh-my-zsh
+!.config/.oh-my-zsh/oh-my-zsh.sh
+.config/.emacs.d
