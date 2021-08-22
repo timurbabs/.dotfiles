@@ -206,7 +206,7 @@ client.background       #F8F8F2
 
 # i3lock
 bindsym $mod+m exec ~/.config/i3lock/lock.sh
-exec xautolock -time 5 -locker '~/.config/i3lock/lock.sh' &
+exec xautolock -corners 000- -time 5 -locker '~/.config/i3lock/lock.sh' &
 
 # syncthing
 exec --no-startup-id syncthing -no-browser

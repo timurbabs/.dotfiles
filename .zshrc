@@ -4,6 +4,12 @@
 # Path to your oh-my-zsh installation.
 export ZSH="/home/timurbabs/.oh-my-zsh"
 
+# Path to Doom Emacs
+export PATH="$PATH:$HOME/.emacs.d/bin"
+
+# Path to Go
+export PATH="$PATH:$HOME/go/bin"
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
